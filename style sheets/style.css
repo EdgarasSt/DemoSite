@@ -1,0 +1,15 @@
+*{
+    margin: 0 0;
+
+}
+header {
+   
+    
+    background: blue;
+}
+
+
+.h2-header {
+    display: flex;
+    color: rgb(146, 25, 25);
+}
